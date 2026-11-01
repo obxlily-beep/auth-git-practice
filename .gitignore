@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Local environment with real secrets
+config/dev.env
+
+# Local SQLite databases
+*.db
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
